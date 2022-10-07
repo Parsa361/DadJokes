@@ -1,6 +1,7 @@
 <template>
     <div>
-        <h1>About DadJokes</h1>
+        <h1 class="text-center mt-5">About DadJokes</h1>
+        <hr>
         <p>Here we want to share some dad's jokes with you guys</p>
     </div>
 </template>
