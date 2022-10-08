@@ -1,5 +1,7 @@
 # dadJokes
 
+DadJokes extracts data from icanhazdadjoke API and displays It on jokes page, You can click on the joke you want to view It on a new page dedicated to you, You can also access specific jokes by searching words in search field
+
 ![image](https://user-images.githubusercontent.com/77281736/194728075-a3cba86a-f053-4ee5-8c07-3752732f088e.png)
 
 ## Build Setup
