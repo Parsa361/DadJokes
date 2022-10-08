@@ -1,5 +1,7 @@
 # dadJokes
 
+![image](https://user-images.githubusercontent.com/77281736/194728075-a3cba86a-f053-4ee5-8c07-3752732f088e.png)
+
 ## Build Setup
 
 ```bash
